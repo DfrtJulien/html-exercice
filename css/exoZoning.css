@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: pink;
+    height: 80px;
+}
+
+header p {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+section {
+    height: 779px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin: 0;
+}
+
+footer {
+    background-color: pink;
+    height: 80px;
+    font-weight: bolder;
+    font-size: 25px;
+}
